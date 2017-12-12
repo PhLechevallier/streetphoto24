@@ -1,0 +1,103 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://cdn.streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00660.jpg" 
+		title="Street photos"><img src="http://cdn.streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00660.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<p></br>Photos taken here and there in the streets of Almere. In Almere, you always discover some funny people, some funny wall paintings and some interesting buildings.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/disguised-man.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/disguised-man.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/wall-painting.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/wall-painting.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-photos-DSC08924.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-photos-DSC08924.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/chips-man.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/chips-man.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/laughing-woman.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/laughing-woman.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/girts-with-expressive-face.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/girts-with-expressive-face.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/wall-painting-in-a-tunnel.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/wall-painting-in-a-tunnel.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/street-art.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/street-art.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/la-defense-in-almere-1.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/la-defense-in-almere-1.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/03/la-defense-in-almere-2.jpg" 
+		title="Street photos">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/la-defense-in-almere-2.jpg" 
+		alt="Street photos" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

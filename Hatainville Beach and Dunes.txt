@@ -1,0 +1,251 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/DSC04146.jpg" 
+		title="Hatainville Beach and Dunes"><img src="http://streetphoto24.com/wp-content/uploads/DSC04146.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<p></br>We always enjoy the beach and the dunes of Hatainville near Carteret (Normandy). We have been going there every summer for 20 years and we still like it. Look at the photos.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04031.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04031.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04032.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04032.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04034.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04034.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04035.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04035.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04037.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04037.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04038.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04038.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04039.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04039.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04040.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04040.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04044.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04044.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04045.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04045.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04046.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04046.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04049.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04049.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04051.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04051.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04052.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04052.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04055.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04055.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04142.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04142.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04140.jpg" 
+			title="Hatainville Beach and Dunes">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04140.jpg" 
+			alt="Hatainville Beach and Dunes" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04151.jpg" 
+			title="Hatainville Beach and Dunes">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04151.jpg" 
+			alt="Hatainville Beach and Dunes" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04147.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04147.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04148.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04148.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04051.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04051.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04156.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04156.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04157.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04157.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04166.jpg" 
+			title="Hatainville Beach and Dunes">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04166.jpg" 
+			alt="Hatainville Beach and Dunes" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04159.jpg" 
+			title="Hatainville Beach and Dunes">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04159.jpg" 
+			alt="Hatainville Beach and Dunes" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04158.jpg" 
+		title="Hatainville Beach and Dunes">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/DSC04158.jpg" 
+		alt="Hatainville Beach and Dunes" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+<h2 class="adtitle textright">Dunes of Hatainville</h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a href="http://www.manchetourisme.com/node/4919" target="_blank" title="Manche Tourisme">
+		<img src="http://www.manchetourisme.com/sites/manchev4/files/vacances-normandie-dunes-hatainville-m-lerouge-patcotentin-525x350.jpg" alt="Hatainville">
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a style="color:#5f5e5e;" href="http://www.manchetourisme.com/node/4919" target="_blank" title="Manche Tourisme">
+		Between the headlands of Carteret and Rozel, the heavy Hatainville Dunes rise to over 250 feet, covering ancient cliffs of 70000 years ago in a blanket of sand. Local vegetation is a mosaic of species, greatly influenced by the salty spray of the sea, the wind and occasional inundations of fresh water. Many rare plants lend the dunes ...
+		</a>
+		Source: Manche Tourisme
+		<a href="http://www.manchetourisme.com" target="_blank" title="Manche Tourisme"><img class="img-responsive" src="http://mahteldphilippe.com/images/manche-tourisme-cta.jpg" alt="images/manche-tourisme-cta.jpg" /></a>
+	</div>
+</div>
+
+<hr />

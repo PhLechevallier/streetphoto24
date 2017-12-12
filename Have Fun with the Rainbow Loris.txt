@@ -1,0 +1,67 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00108.jpg" 
+		title="Have Fun with the Rainbow Lories"><img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00108.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+</div>
+
+<p></br>Do you like to play with birds? Yes, then visit the Rainbow Lories at De Orchideeën Hoeve in Luttelgeest (Netherlands). There the Rainbow Lories are abnormally friendly and you will enjoy playing with them.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00107.jpg" 
+		title="Have Fun with the Rainbow Lories">
+		<img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00107.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00109.jpg" 
+		title="Have Fun with the Rainbow Lories">
+		<img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00109.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00110.jpg" 
+		title="Have Fun with the Rainbow Lories">
+		<img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00110.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00115.jpg" 
+		title="Have Fun with the Rainbow Lories">
+		<img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00115.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00118.jpg" 
+		title="Have Fun with the Rainbow Lories">
+		<img src="http://streetphoto24.com/wp-content/uploads/Have-Fun-with-the-Rainbow-Loris-DSC00118.jpg" 
+		alt="Have Fun with the Rainbow Lories" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		</br>More about the Rainbow Lories ...
+		<a  href="https://www.orchideeenhoeve.nl/lory-garden/" 
+		title="the Lory Garden" target="_blank">
+		<img src="https://www.orchideeenhoeve.nl/userfiles/content/109/slide/Lorituin.jpg" width="60%"
+		alt="the Lory Garden" />
+		</a>
+	</div>
+</div>
+
+<hr />

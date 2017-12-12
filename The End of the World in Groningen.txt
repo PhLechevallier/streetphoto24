@@ -1,0 +1,127 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00039.jpg" 
+		title="The End of the World in Groningen"><img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00039.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<p></br>The North of the province Groningen in the Netherlands is almost the end of the world. The villages are very quite. Although there is not so much to see in each village, there are some nice images, some ones are classical and some ones are amazing.
+At Niekerk the small cemetery is amazing. It is structured per family. Look at the name of the people, their name is potatoes of cage.
+From the dike at the north you can believe that you are in the middle of nowhere. At the north side you see the 'wad', then the see and a small island, and further nothing. At the east and west sides, you only see the dike and at the south side you only see the huge fields. The only life is the farmer who plows and 1000 seagulls who follow him. 
+</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00036.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00036.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00033.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00033.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00031.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00031.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00038.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00038.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00032.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00032.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00037.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00037.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00044.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00044.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00046.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00046.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00048.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00048.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00050.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00050.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00051.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00051.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00052.jpg" 
+		title="The End of the World in Groningen">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-End-of-the-World-in-Groningen-DSC00052.jpg" 
+		alt="The End of the World in Groningen" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+
+The North of the province Groningen in the Netherlands in almost the end of the world. The villages are very quite. Although there not so much to see in each ...
+
+North, province Groningen, Groningen, Netherlands, end of the world, village, very quite, not much to see, nice images, classical, amazing, Niekerk, small cemetery, family, name of people, potatoes, cage,
+dike, middle of nowhere, wad, small island, huge fields, plow, seagulls

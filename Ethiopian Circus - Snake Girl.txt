@@ -1,0 +1,103 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0350.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0350.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<p></br>The girl is incredibly agile. <strong>She really squirms as a snake</strong>. You have probably never seen this before.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0244.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0244.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0248.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0248.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0260.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0260.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0271.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0271.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0271.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0271.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0299.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0299.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0309.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0309.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0312.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0312.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0325.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0325.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0351.jpg" 
+		title="Ethiopian Circus - Snake Girl">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-snake-girl-PICT0351.jpg" 
+		alt="Ethiopian Circus - Snake Girl" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

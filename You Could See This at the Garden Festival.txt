@@ -1,0 +1,149 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09038.jpg" 
+		title="You Could See This at the Garden Festival"><img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09038.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<p></br>This is what you could see at the Garden Festival in Almere (Stadstuinen Festival):  flowers, food, creativity and a lot of people. </p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09033.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09033.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09039.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09039.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09026.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09026.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09027.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09027.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09028.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09028.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09024.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09024.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09042.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09042.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09085.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09085.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09061.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09061.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09070.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09070.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-This-at-the-Garden-Festival-DSC09080.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-This-at-the-Garden-Festival-DSC09080.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09050.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09050.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09090.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09090.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09052.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09052.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09064.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09064.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09060.jpg" 
+		title="You Could See This at the Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/You-Could-See-this-at-the-Garden-Festival-DSC09060.jpg" 
+		alt="You Could See This at the Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

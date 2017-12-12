@@ -1,0 +1,111 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00660.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00660.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>King's day in Almere</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00625.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00625.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00627.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00627.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00630.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00630.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00635.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00635.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00636.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00636.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00641.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00641.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00642.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00642.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00650.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00650.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00651.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00651.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00653.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00653.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00657.jpg" 
+		title="King's Day 2014">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2014-DSC00657.jpg" 
+		alt="King's Day 2014" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+

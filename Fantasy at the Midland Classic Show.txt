@@ -1,0 +1,81 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09666.jpg" 
+		title="Fantasy at the Midland Classic Show"><img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09666.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+</div>
+
+<p></br>At the Midland classic show you expect to see classic old timers and old motor bikes but you see more. The bikes and cars below are real old timers but with a lot of fantasy.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09659.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09659.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09665.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09665.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09654.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09654.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09662.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09662.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09663.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09663.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09648.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09648.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09650.jpg" 
+		title="Fantasy at the Midland Classic Show">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fantasy-at-the-Midland-Classic-Show-DSC09650.jpg" 
+		alt="Fantasy at the Midland Classic Show" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Midland classic show was in Almere.</p>
+
+<hr />
+
+
+

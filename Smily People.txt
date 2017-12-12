@@ -1,0 +1,110 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC00630.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC00630.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Smily People. This day was a special day and people were smiling in the streets of Almere.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08319-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08319-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08314-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08314-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0012.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0012.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0024.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0024.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08297-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08297-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08296-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08296-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0072-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0072-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0082.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0082.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08316-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08316-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0076-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-PICT0076-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08370-1.jpg" 
+		title="Smily People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Smily-People-DSC08370-1.jpg" 
+		alt="Smily People" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

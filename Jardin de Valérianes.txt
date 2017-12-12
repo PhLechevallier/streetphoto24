@@ -1,0 +1,199 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08891.jpg" 
+		title="Jardin de Valérianes"><img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08891.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Jardin de Valérianes at Bosc Roger sur Buchy in Normandy has been chosen as favorite garden of French people. Visit it ...</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08846.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08846.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08847.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08847.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08848.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08848.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08853.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08853.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08855.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08855.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08856.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08856.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08857.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08857.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08858.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08858.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08859.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08859.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08861.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08861.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08865.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08865.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08867.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08867.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08871.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08871.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08873.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08873.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08875.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08875.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08877.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08877.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08880.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08880.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08881.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08881.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08884.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08884.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08899.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08899.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08902.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08902.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08914.jpg" 
+		title="Jardin de Valérianes">
+		<img src="http://streetphoto24.com/wp-content/uploads/Jardin-de-Valérianes-DSC08914.jpg" 
+		alt="Jardin de Valérianes" />
+		</a>
+	</div>
+</div>
+
+<p>The site of the <a  href="http://jardindevalerianes.e-monsite.com/en/" >Jardin de Valérianes</p>
+
+<hr />
+

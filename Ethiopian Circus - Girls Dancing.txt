@@ -1,0 +1,86 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0440.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0440.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+</div>
+
+<p></br>5 girls wears closes from Ethiopia and dancing Ethiopian danses</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0424.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0424.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0426.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0426.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0428.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0428.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0429.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0429.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0430.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0430.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0435.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0435.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0436.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT0436.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT1008.jpg" 
+		title="Ethiopian Circus - Girls Dancing">
+		<img src="http://streetphoto24.com/wp-content/uploads/ethiopian-circus-feature-girls-dancing-PICT1008.jpg" 
+		alt="Ethiopian Circus - Girls Dancing" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

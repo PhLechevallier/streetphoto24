@@ -1,0 +1,94 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08464.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08464.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>One the shows during the Almere Security Day. Happy ladies in a car that flips over. The show is probably more pleasant than a true accident.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08459.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08459.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08460.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08460.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08461.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08461.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08464.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08464.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08465.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08465.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08467.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08467.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08469.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08469.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08470.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08470.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08471.jpg" 
+		title="Car Flips Over">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Car-Flips-Over-DSC08471.jpg" 
+		alt="Car Flips Over" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+

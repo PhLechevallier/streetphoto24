@@ -1,0 +1,101 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08485.jpg" 
+		title="There are All Kinds People in Almere"><img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08485.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+</div>
+
+<p></br>You really see all kinds people in the streets of Almere. Go to the downtown on a Saturday afternoon and you will have the biggest chance to admire these variety of people.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08522.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08522.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08498.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08498.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08491.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08491.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08526.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08526.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08229.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08229.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08381.jpg" 
+			title="There are All Kinds People in Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08381.jpg" 
+			alt="There are All Kinds People in Almere" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08478.jpg" 
+			title="There are All Kinds People in Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08478.jpg" 
+			alt="There are All Kinds People in Almere" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08480.jpg" 
+		title="There are All Kinds People in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08480.jpg" 
+		alt="There are All Kinds People in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08380.jpg" 
+			title="There are All Kinds People in Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08380.jpg" 
+			alt="There are All Kinds People in Almere" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08501.jpg" 
+			title="There are All Kinds People in Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/There-are-All-Kinds-People-in-Almere-DSC08501.jpg" 
+			alt="There are All Kinds People in Almere" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<hr />

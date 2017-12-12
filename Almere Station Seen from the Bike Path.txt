@@ -1,0 +1,67 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09381.jpg" 
+		title="Almere Station Seen from the Bike Path"><img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09381.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+</div>
+
+<p></br>Have you seen the Central Station of Almere from the bike path? If you ride a bike along the cycle path near the train station, you have a good view of the interior. You see it through the bay windows, what gives amazing effects. </p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09379.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09379.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09390.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09390.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09404.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09404.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09384.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09384.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09386.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09386.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09389.jpg" 
+		title="Almere Station Seen from the Bike Path">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Seen-from-the-Bike-Path-DSC09389.jpg" 
+		alt="Almere Station Seen from the Bike Path" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08706.jpg" 
+		title="The Mill on a Bridge at Vernon"><img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08706.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Mill on a Bridge at Vernon. This <a href="http://giverny.org/moulins/vernon/" target="_blank">old water mill</a> is all that remains of the old bridge over the Seine. Amazing!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08708.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08708.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08709.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08709.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08710.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08710.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08711.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08711.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08712.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08712.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08713.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08713.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08704.jpg" 
+		title="The Mill on a Bridge at Vernon">
+		<img src="http://streetphoto24.com/wp-content/uploads/the-mill-on-a-bridge-at-vernon-DSC08704.jpg" 
+		alt="The Mill on a Bridge at Vernon" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

@@ -1,0 +1,135 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0050.jpg" 
+		title="Mosaics, Time == Art"><img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0050.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<p></br>Mosaics, "Time == Art" in the middle of the Belfort Square in Almere. The design of these clock and banks is inspired by the Mayan culture. The Mayans considered time and energy as art. Emeke de Buitelaar, the artist, explains: "<em>We can not ignore the time in a time where time is money. The Mayans live by: energy x time is art. That seems like a much better starting point.</em>"</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0045.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0045.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0083.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0083.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0040.jpg" 
+			title="Mosaics, Time == Art">
+			<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0040.jpg" 
+			alt="Mosaics, Time == Art" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0053.jpg" 
+			title="Mosaics, Time == Art">
+			<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0053.jpg" 
+			alt="Mosaics, Time == Art" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0047.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0047.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0095.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0095.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0084.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0084.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0087.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0087.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0101.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0101.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0104.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0104.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0105.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0105.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0106.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0106.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0108.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0108.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0080.jpg" 
+		title="Mosaics, Time == Art">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mosaics-Time-is-art-ICT0080.jpg" 
+		alt="Mosaics, Time == Art" />
+		</a>
+	</div>
+</div>
+
+<p></br>More info: <strong><a href="http://www.flevolanderfgoed.nl/home/kunst/zuidelijk-flevoland/almere/time-art.html" target="_blank">Time == Art</a></strong></p>
+
+<hr />
+
+
+

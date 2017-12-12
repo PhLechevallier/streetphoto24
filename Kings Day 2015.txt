@@ -1,0 +1,133 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03572.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03572.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>King's day in Almere and Weesp</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03550.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03550.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03551.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03551.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03553.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03553.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03557.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03557.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03560.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03560.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03561.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03561.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03562.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03562.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03567.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03567.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03570.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03570.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03571.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03571.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03573.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03573.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03576.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03576.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03579.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03579.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03587.jpg" 
+		title="Kings Day 2015">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-2015-DSC03587.jpg" 
+		alt="Kings Day 2015" />
+		</a>
+	</div>
+</div>
+
+<hr />

@@ -1,0 +1,53 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09427.jpg" 
+		title="After the Rain the Bikes Have a Shiny Color"><img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09427.jpg" 
+		alt="After the Rain the Bikes Have a Shiny Color" />
+		</a>
+	</div>
+</div>
+
+<p></br>After the rain the colors are shiny and the bicycles that normally have dull colors shine much more than usual. I took these photos in a grimy bicycle park near the Muziekwijk station in Almere after a shower. </p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09428.jpg" 
+		title="After the Rain the Bikes Have a Shiny Color">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09428.jpg" 
+		alt="After the Rain the Bikes Have a Shiny Color" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09429.jpg" 
+		title="After the Rain the Bikes Have a Shiny Color">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09429.jpg" 
+		alt="After the Rain the Bikes Have a Shiny Color" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09431.jpg" 
+		title="After the Rain the Bikes Have a Shiny Color">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09431.jpg" 
+		alt="After the Rain the Bikes Have a Shiny Color" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09430.jpg" 
+		title="After the Rain the Bikes Have a Shiny Color">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Bikes-Have-a-Shiny-Color-DSC09430.jpg" 
+		alt="After the Rain the Bikes Have a Shiny Color" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

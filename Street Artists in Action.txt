@@ -1,0 +1,128 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09968.jpg" 
+		title="Street Artists in Action"><img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09968.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+</div>
+
+<p></br>The street artists were in action last weekend for the yearly Street Art Festival in Almere. Saturday in the middle of the afternoon the paintings were only half completed, anyway at this stage you could already imagine the results.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09967.jpg" 
+			title="Street Artists in Action">
+			<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09967.jpg" 
+			alt="Street Artists in Action" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09975.jpg" 
+			title="Street Artists in Action">
+			<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09975.jpg" 
+			alt="Street Artists in Action" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09973.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09973.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09957.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09957.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09956.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09956.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09969.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09969.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09964.jpg" 
+			title="Street Artists in Action">
+			<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09964.jpg" 
+			alt="Street Artists in Action" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09980.jpg" 
+			title="Street Artists in Action">
+			<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09980.jpg" 
+			alt="Street Artists in Action" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09970.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09970.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09972.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09972.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09982.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09982.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09984.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09984.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09985.jpg" 
+		title="Street Artists in Action">
+		<img src="http://streetphoto24.com/wp-content/uploads/Street-Artists-in-Action-DSC09985.jpg" 
+		alt="Street Artists in Action" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

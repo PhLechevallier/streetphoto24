@@ -1,0 +1,120 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08399.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08399.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Many people this year at the Almere Security Day. As exhibitors all kinds of security experts and as visitors also all kinds of people. Look at the diversity.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08375.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08375.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08376.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08376.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08428.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08428.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08378.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08378.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08457.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08457.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08387.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08387.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08388.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08388.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08412.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08412.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08377.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08377.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08450.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08450.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08385.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-DSC08385.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-PICT0006.jpg" 
+		title="Visitors and Exhibitors">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-PICT0006.jpg" 
+		alt="Visitors and Exhibitors" />
+		</a>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<hr />
+		
+http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-Visitors-and-Exhibitors-PICT0006.jpg

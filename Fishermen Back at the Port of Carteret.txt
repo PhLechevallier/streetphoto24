@@ -1,0 +1,161 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09243.jpg" 
+		title="Fishermen Back at the Port of Carteret"><img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09243.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<p></br>It is always exciting to watch the fishermen when to are back at the port of Carteret (Normandy). They return every night when the tide is high. At this season the fishermen of Carteret fish whelks, crabs and lobsters. Each day they do the same thing: unload what they have fished, weigh the baskets and ship everything in a truck. Each time it is a ceremonial.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09242.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09242.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09244.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09244.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09241.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09241.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09246.jpg" 
+				title="Fishermen Back at the Port of Carteret">
+				<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09246.jpg" 
+				alt="Fishermen Back at the Port of Carteret" />
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09247.jpg" 
+				title="Fishermen Back at the Port of Carteret">
+				<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09247.jpg" 
+				alt="Fishermen Back at the Port of Carteret" />
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09240.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09240.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09254.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09254.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09251.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09251.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09255.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09255.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09245.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09245.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09257.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09257.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09258.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09258.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09248.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09248.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09262.jpg" 
+		title="Fishermen Back at the Port of Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09262.jpg" 
+		alt="Fishermen Back at the Port of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09260.jpg" 
+				title="Fishermen Back at the Port of Carteret">
+				<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09260.jpg" 
+				alt="Fishermen Back at the Port of Carteret" />
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09261.jpg" 
+				title="Fishermen Back at the Port of Carteret">
+				<img src="http://streetphoto24.com/wp-content/uploads/Fishermen-Back-at-the-Port-of-Carteret-DSC09261.jpg" 
+				alt="Fishermen Back at the Port of Carteret" />
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<hr />
+

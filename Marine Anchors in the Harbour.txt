@@ -1,0 +1,82 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00021.jpg" 
+		title="Marine Anchors at Zoutkamp"><img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00021.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+	</div>
+</div>
+
+<p></br>Do you like old marine anchors? Have a walk at the harbour of Zoutkamp in the province Groningen in the Netherlands. In front of each building one of two old anchors are exposed. The specialty of the harbour is fishing shrimps. You see it on the statue: the women peel them manually.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00022.jpg" 
+		title="Marine Anchors at Zoutkamp">
+		<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00022.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00023.jpg" 
+		title="Marine Anchors at Zoutkamp">
+		<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00023.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00024.jpg" 
+		title="Marine Anchors at Zoutkamp">
+		<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00024.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00025.jpg" 
+		title="Marine Anchors at Zoutkamp">
+		<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00025.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00026.jpg" 
+		title="Marine Anchors at Zoutkamp">
+		<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00026.jpg" 
+		alt="Marine Anchors at Zoutkamp" />
+		</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00020.jpg" 
+			title="Marine Anchors at Zoutkamp">
+			<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00020.jpg" 
+			alt="Marine Anchors at Zoutkamp" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00027.jpg" 
+			title="Marine Anchors at Zoutkamp">
+			<img src="http://streetphoto24.com/wp-content/uploads/Marine-Anchors-in-the-Harbour-DSC00027.jpg" 
+			alt="Marine Anchors at Zoutkamp" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<hr />
+
+
+
+Do you like old marine anchors? Have a walk at the harbour of Zoutkamp in the province Groningen in the Netherlands. In front of each building one of two ...
+old marine anchor, marine anchor, anchor, have a walk, harbour of Zoutkamp, harbour, Zoutkamp, Groningen, Netherlands, specialty of the harbour, fishing shrimps, shrimps, statue, women peel shrimps manually

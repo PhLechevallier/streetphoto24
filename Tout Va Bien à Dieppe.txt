@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08844.jpg" 
+		title="Tout Va Bien à Dieppe"><img src="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08844.jpg" 
+		alt="Tout Va Bien à Dieppe" />
+		</a>
+	</div>
+</div>
+
+<p></br>Tout va bien à Dieppe! Everything is ok in Dieppe. The weather is nice, the tourists enjoy in the city and on the beach.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08843.jpg" 
+		title="Tout Va Bien à Dieppe">
+		<img src="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08843.jpg" 
+		alt="Tout Va Bien à Dieppe" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08836.jpg" 
+		title="Tout Va Bien à Dieppe">
+		<img src="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08836.jpg" 
+		alt="Tout Va Bien à Dieppe" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08837.jpg" 
+		title="Tout Va Bien à Dieppe">
+		<img src="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08837.jpg" 
+		alt="Tout Va Bien à Dieppe" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08838.jpg" 
+		title="Tout Va Bien à Dieppe">
+		<img src="http://streetphoto24.com/wp-content/uploads/tout-va-bien-a-dieppe-DSC08838.jpg" 
+		alt="Tout Va Bien à Dieppe" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

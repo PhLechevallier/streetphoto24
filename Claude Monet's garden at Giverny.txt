@@ -1,0 +1,141 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08687.jpg" 
+		title="Claude Monet's garden at Giverny"><img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08687.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<p></br>Claude Monet's garden at Giverny is known in the whole world, thousands peope visit it, it deserves to be visited.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08655.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08655.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08656.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08656.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08657.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08657.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08658.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08658.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08659.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08659.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08660.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08660.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08664.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08664.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08671.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08671.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08673.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08673.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08674.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08674.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08681.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08681.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08683.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08683.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08686.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08686.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08692.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08692.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08693.jpg" 
+		title="Claude Monet's garden at Giverny">
+		<img src="http://streetphoto24.com/wp-content/uploads/Claude-Monets-garden-at-Giverny-DSC08693.jpg" 
+		alt="Claude Monet's garden at Giverny" />
+		</a>
+	</div>
+</div>
+
+<p></br>Also look at <a  href="giverny-village">Giverny Village</a></p>
+
+<hr />
+

@@ -1,0 +1,77 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09361.jpg" 
+		title="Front Gardens in the Streets of Almere Muziekwijk"><img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09361.jpg" 
+		alt="Front Gardens in the Streets of Almere Muziekwijk" />
+		</a>
+	</div>
+</div>
+
+<p></br>I had a particular attention on the front gardens during this walk through the streets of Almere Muziekwijk. Some ones are really nice. Look!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09374.jpg" 
+		title="Front Gardens in the Streets of Almere Muziekwijk">
+		<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09374.jpg" 
+		alt="Front Gardens in the Streets of Almere Muziekwijk" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09373.jpg" 
+			title="Front Gardens in the Streets of Almere Muziekwijk">
+			<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09373.jpg" 
+			alt="Front Gardens in the Streets of Almere Muziekwijk" />
+			</a>
+		</div>
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09366.jpg" 
+			title="Front Gardens in the Streets of Almere Muziekwijk">
+			<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09366.jpg" 
+			alt="Front Gardens in the Streets of Almere Muziekwijk" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09367.jpg" 
+		title="Front Gardens in the Streets of Almere Muziekwijk">
+		<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09367.jpg" 
+		alt="Front Gardens in the Streets of Almere Muziekwijk" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09363.jpg" 
+		title="Front Gardens in the Streets of Almere Muziekwijk">
+		<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09363.jpg" 
+		alt="Front Gardens in the Streets of Almere Muziekwijk" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<h3>Have you seen the previous albums?</h3> <a href="many-bikes-at-the-station-but-no-life" 
+			title="Many Bikes at the Station but no Life">
+			<img src="http://streetphoto24.com/wp-content/uploads/Many-Bikes-at-the-Station-but-no-Life-DSC09350.jpg" 
+			alt="Many Bikes at the Station but no Life" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 ">
+	</div>
+</div>
+
+<hr />
+

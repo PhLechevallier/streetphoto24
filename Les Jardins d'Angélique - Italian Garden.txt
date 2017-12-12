@@ -1,0 +1,103 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08609.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden"><img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08609.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+</div>
+
+<p></br>The second Jardin d'Angélique at Montmain (Normandy) is the Italian garden. This garden is very different of the first one, the romantic garden. Its structure is total different. You will like it as much as the first one. Look at the photos ...</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08608.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08608.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08610.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08610.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08611.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08611.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08612.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08612.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08614.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08614.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08615.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08615.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08616.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08616.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08617.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08617.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08619.jpg" 
+		title="Les Jardins d'Angélique - Italian Garden">
+		<img src="http://streetphoto24.com/wp-content/uploads/Les-Jardins-dAngélique-Italian-Garden-DSC08619.jpg" 
+		alt="Les Jardins d'Angélique - Italian Garden" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="les-jardins-dangelique"><img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08604.jpg" 
+		alt="Les Jardins d'Angélique" /><center>Les Jardins d'Angélique</center></a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<hr />

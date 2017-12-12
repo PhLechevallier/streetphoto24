@@ -1,0 +1,196 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08604.jpg" 
+		title="Les Jardins d'Angélique"><img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08604.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<p></br>Enjoy gardens when you travel through Normandy. One of the nicest ones is the Jardin d'Angélique in Montmain near Rouen.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08559.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08559.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08560.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08560.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08564.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08564.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08565.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08565.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08569.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08569.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08571.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08571.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08572.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08572.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08582.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08582.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08580.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08580.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08588.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08588.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08589.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08589.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08592.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08592.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08590-1.jpg" 
+				title="Les Jardins d'Angélique">
+				<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08590-1.jpg" 
+				alt="Les Jardins d'Angélique" />
+			</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08594.jpg" 
+				title="Les Jardins d'Angélique">
+				<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08594.jpg" 
+				alt="Les Jardins d'Angélique" />
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08575.jpg" 
+				title="Les Jardins d'Angélique">
+				<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08575.jpg" 
+				alt="Les Jardins d'Angélique" />
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08595.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08595.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08596.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08596.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08597.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08597.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08599.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08599.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08601.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08601.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08604.jpg" 
+		title="Les Jardins d'Angélique">
+		<img src="http://streetphoto24.com/wp-content/uploads/les-jardins-dangelique-DSC08604.jpg" 
+		alt="Les Jardins d'Angélique" />
+		</a>
+	</div>
+</div>
+</br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xy1GaNieSso" frameborder="0" allowfullscreen></iframe>
+
+<hr />

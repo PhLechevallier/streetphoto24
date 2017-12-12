@@ -1,0 +1,170 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08787.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08787.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08786.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08786.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<p></br>Don't miss the rhododendrons in Le Bois des Moutiers at Varengeville. You have probably never seen such gigantic rhododendrons. The park is huge and you see a lot of them.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08773.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08773.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08775.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08775.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08769.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08769.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08772.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08772.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08768.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08768.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08774.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08774.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08777.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08777.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08776.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08776.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08779.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08779.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08780.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08780.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08794.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08794.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08769.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08769.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08771.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08771.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08781.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08781.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08784.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08784.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08788.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08788.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08789.jpg" 
+		title="Rhododendrons at Varengeville">
+		<img src="http://streetphoto24.com/wp-content/uploads/Rhododendrons-at-Varengeville-DSC08789.jpg" 
+		alt="Rhododendrons at Varengeville" />
+		</a>
+	</div>
+</div>
+
+<br/>
+<p><center>The site: <a  href="http://www.boisdesmoutiers.com/" target="_blank">Parcs en Jardins Le Bois des Moutiers</a></center></p>
+
+<hr />
+

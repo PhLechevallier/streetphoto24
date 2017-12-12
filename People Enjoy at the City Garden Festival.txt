@@ -1,0 +1,115 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09059.jpg" 
+		title="People Enjoy at the City Garden Festival"><img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09059.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<p></br>People enjoyed at the City Garden Festival in Almere (Stadstuinen Festival). Looking at flowers, cooking and tasting, and playing funny games.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09086.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09086.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09088.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09088.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09017.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09017.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09076.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09076.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09020.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09020.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09021.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09021.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09040.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09040.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09079.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09079.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09081.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09081.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09025.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09025.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09032.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09032.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09051.jpg" 
+		title="People Enjoy at the City Garden Festival">
+		<img src="http://streetphoto24.com/wp-content/uploads/People-Enjoy-at-the-City-Garden-Festival-DSC09051.jpg" 
+		alt="People Enjoy at the City Garden Festival" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

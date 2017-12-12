@@ -1,0 +1,84 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09402.jpg" 
+		title="Almere Station Square from Above"><img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09402.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+</div>
+
+<p></br>There is always a lot of life on the Station Square in Almere. From the bike path up, you have the best view of people who are coming and going and also of all things that they are doing on the square. <b>Look at the kids who are hunting birds!</b></p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09401.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09401.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09406.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09406.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09399.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09399.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09393.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09393.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09395.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09395.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09403.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09403.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09392.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09392.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09398.jpg" 
+		title="Almere Station Square from Above">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Station-Place-from-Above-DSC09398.jpg" 
+		alt="Almere Station Square from Above" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

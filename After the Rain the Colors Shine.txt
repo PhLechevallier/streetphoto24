@@ -1,0 +1,59 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09439.jpg" 
+		title="After the Rain the Colors Shine"><img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09439.jpg" 
+		alt="After the Rain the Colors Shine" />
+		</a>
+	</div>
+</div>
+
+<p></br>The colors are much more shiny after the rain! Even when the weather is fine the old graffiti and the old decorations are often dull. A bit rain and then a little sunshine are enough to get all colors alive again. I took these photos in the streets and in the parks near the station of Muziekwijk in Almere after a rainfall.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09438.jpg" 
+		title="After the Rain the Colors Shine">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09438.jpg" 
+		alt="After the Rain the Colors Shine" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09423.jpg" 
+		title="After the Rain the Colors Shine">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09423.jpg" 
+		alt="After the Rain the Colors Shine" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09445.jpg" 
+		title="After the Rain the Colors Shine">
+		<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09445.jpg" 
+		alt="After the Rain the Colors Shine" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09441.jpg" 
+			title="After the Rain the Colors Shine">
+			<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09441.jpg" 
+			alt="After the Rain the Colors Shine" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09440.jpg" 
+			title="After the Rain the Colors Shine">
+			<img src="http://streetphoto24.com/wp-content/uploads/After-the-Rain-the-Colors-Shine-DSC09440.jpg" 
+			alt="After the Rain the Colors Shine" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<hr />
+

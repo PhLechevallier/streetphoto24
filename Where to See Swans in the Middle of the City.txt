@@ -1,0 +1,66 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08548.jpg" 
+		title="Where to See Swans in the Middle of the City?"><img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08548.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+</div>
+
+<p></br>If want to be sure to see swans in the middle of the city, go to Almere (Netherlands). You will walk along the channels in the downtown and you will see them. This swans are always in the Olstgracht at a few hundreds meters from the shops (Olst Channel). Sometimes they are romantic. </p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08533.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08533.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08534.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08534.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08535.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08535.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08538.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08538.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08539.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08539.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08546.jpg" 
+		title="Where to See Swans in the Middle of the City?">
+		<img src="http://streetphoto24.com/wp-content/uploads/Where-to-See-Swans-DSC08546.jpg" 
+		alt="Where to See Swans in the Middle of the City?" />
+		</a>
+	</div>
+</div>
+
+<hr />

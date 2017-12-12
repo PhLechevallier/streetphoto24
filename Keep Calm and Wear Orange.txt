@@ -1,0 +1,194 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08297.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08297.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08298.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08298.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Keep Calm and Wear Orange said two happy ladies. It was tonight at the King's Day Evening in Almere. Tonight, a lot of people wear orange clothes, hats and other accessoires.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08307.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08307.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08313.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08313.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08314.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08314.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08244.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08244.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08252.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08252.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08277.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08277.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08278.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08278.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08280.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08280.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08253.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08253.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08257.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08257.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08315.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08315.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08319.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08319.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08325.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08325.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08303.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08303.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08322.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08322.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08230.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08230.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08259.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08259.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08274.jpg" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08274.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<hr />
+
+

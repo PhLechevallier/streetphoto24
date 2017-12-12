@@ -1,0 +1,102 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09619.jpg" 
+		title="Fun Fair Night Lights"><img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09619.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+<p></br>Look at the night lights when you go to the fun fair in the evening! It is amazing to see all these stands with so many projectors that constantly move and always change color. Even if you don't want to go on any rides, it is interesting to go there to see the night lights.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09586.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09586.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09588.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09588.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09583.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09583.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09585.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09585.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09589.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09589.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09590.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09590.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09631.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09631.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09624.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09624.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09582.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09582.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09584.jpg" 
+		title="Fun Fair Night Lights">
+		<img src="http://streetphoto24.com/wp-content/uploads/Fun-Fair-Night-Light-DSC09584.jpg" 
+		alt="Fun Fair Night Lights" />
+		</a>
+	</div>
+</div>
+
+I have made these photos at the fun fair of Almere a few days ago.
+
+<hr />

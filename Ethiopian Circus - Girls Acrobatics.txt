@@ -1,0 +1,110 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2013.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2013.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<p></br>Show by the Ethiopian Circus. Happy girls dancing and doing all kinds of acrobatics.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1023.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1023.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1028.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1028.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1037.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1037.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1043.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1043.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1047.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1047.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1050.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT1050.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2009.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2009.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2012.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2012.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2015.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2015.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2021.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2021.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2025.jpg" 
+		title="Ethiopian Circus - Girls Acrobatics">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Girls-Acrobatics-PICT2025.jpg" 
+		alt="Ethiopian Circus - Girls Acrobatics" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

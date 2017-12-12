@@ -1,0 +1,166 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08404.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08404.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>The children enjoy at the Security Day of Almere. They play servicemen, jeep drivers, first aids, brigades, and they climb everywhere they can.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08402.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08402.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08403.jpg" 
+				title="The Children Enjoy">
+				<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08403.jpg" 
+				alt="The Children Enjoy" />
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08413.jpg" 
+				title="The Children Enjoy">
+				<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08413.jpg" 
+				alt="The Children Enjoy" />
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08406.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08406.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08400.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08400.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08415.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08415.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08437.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08437.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08481.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08481.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08442.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08442.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08440.jpg" 
+				title="The Children Enjoy">
+				<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08440.jpg" 
+				alt="The Children Enjoy" />
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+				<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08449.jpg" 
+				title="The Children Enjoy">
+				<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08449.jpg" 
+				alt="The Children Enjoy" />
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08409.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08409.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08408.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08408.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08410.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08410.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08393.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08393.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08394.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08394.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08396.jpg" 
+		title="The Children Enjoy">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Enjoy-DSC08396.jpg" 
+		alt="The Children Enjoy" />
+		</a>
+	</div>
+</div>
+
+<hr />

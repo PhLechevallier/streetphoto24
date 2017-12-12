@@ -1,0 +1,110 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2062.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2062.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<p></br>A nice boy and girl story that the young people tell by dancing and doing acrobatics, ... and the final.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2034.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2034.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2037.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2037.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2038.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2038.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2042.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2042.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2044.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2044.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2047.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2047.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2063.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2063.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2067.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2067.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2072.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2072.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2048.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2048.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2081.jpg" 
+		title="Ethiopian Circus - Romantic Dance">
+		<img src="http://streetphoto24.com/wp-content/uploads/Ethiopian-Circus-Romantic-Dance-PICT2081.jpg" 
+		alt="Ethiopian Circus - Romantic Dance" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

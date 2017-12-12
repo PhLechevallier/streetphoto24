@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08654.jpg" 
+		title="Giverny Village"><img src="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08654.jpg" 
+		alt="Giverny Village" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Garden of Monet in Giverny is famous in the whole world. Giverny Village is almost as nice as the garden. There are flowers everywhere and all private gardens are nice. Enjoy the village if you have to wait before getting in the the Garden!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08653.jpg" 
+		title="Giverny Village">
+		<img src="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08653.jpg" 
+		alt="Giverny Village" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08652.jpg" 
+		title="Giverny Village">
+		<img src="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08652.jpg" 
+		alt="Giverny Village" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08650.jpg" 
+		title="Giverny Village">
+		<img src="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08650.jpg" 
+		alt="Giverny Village" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08697.jpg" 
+		title="Giverny Village">
+		<img src="http://streetphoto24.com/wp-content/uploads/Giverny-Village-DSC08697.jpg" 
+		alt="Giverny Village" />
+		</a>
+	</div>
+</div>
+
+<p></br>In the next album, photos of the Garden of Monet ...</p>
+
+<hr />
+

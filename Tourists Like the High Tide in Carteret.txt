@@ -1,0 +1,166 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09123.jpg" 
+		title="Tourists Like the High Tide in Carteret"><img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09123.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<p></br>The high tide in Carteret is always amazing and the tourists like it. What is funny is that the tourists who come there for the first time don't know that the beach totally disappears and that they have to walk in the water when they go back to their car. <b>Wet feet! Look!</b> Anyway the tourists are right to enjoy the high tide; they see the highest waves and they can swimm inside. </p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09126.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09126.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09128.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09128.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09129.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09129.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09130.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09130.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09133.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09133.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09134.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09134.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09137.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09137.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09138.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09138.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09143.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09143.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09156.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09156.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09157.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09157.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09170.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09170.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09171.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09171.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09174.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09174.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09176.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09176.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09179.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09179.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09180.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09180.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09181.jpg" 
+		title="Tourists Like the High Tide in Carteret">
+		<img src="http://streetphoto24.com/wp-content/uploads/Tourists-Like-the-High-Tide-in-Carteret-DSC09181.jpg" 
+		alt="Tourists Like the High Tide in Carteret" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

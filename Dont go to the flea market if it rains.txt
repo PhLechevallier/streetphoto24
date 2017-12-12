@@ -1,0 +1,109 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08333.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08333.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Don't go to the flea market if it rains. You will see nothing in the stalls. All that is for sale is covered with tarpaulins. It was during the King's day in the Netherlands.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08328.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08328.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08329.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08329.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08330.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08330.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08331.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08331.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08335.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08335.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08347.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08347.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08355.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08355.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08356.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08356.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08358.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08358.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08359.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08359.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08373.jpg" 
+		title="Don't go to the flea market if it rains">
+		<img src="http://streetphoto24.com/wp-content/uploads/Do-not-go-to-the-flea-market-if-it-rains-DSC08373.jpg" 
+		alt="Don't go to the flea market if it rains" />
+		</a>
+	</div>
+</div>
+
+<hr />

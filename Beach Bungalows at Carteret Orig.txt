@@ -1,0 +1,33 @@
+<!-- 1st photo -->
+<hr />
+<a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04288-1.jpg" title="Album"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04288-1.jpg" alt="Beach Bungalows at Carteret" /></a>
+When somebody thinks of the beach of Carteret (Normandy), he inevitably thinks of its bungalows.
+
+<!-- 2 photos per row -->
+<table class="size-full wp-image-1073" border="0" width="600">
+<tbody>
+<tr>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04273.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04273.jpg" alt="Beach Bungalows at Carteret" /></a></td>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04284.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04284.jpg" alt="Beach Bungalows at Carteret" /></a></td>
+</tr>
+<tr>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04285.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04285.jpg" alt="Beach Bungalows at Carteret" /></a></td>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04286.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04286.jpg" alt="Beach Bungalows at Carteret" /></a></a></td>
+</tr>
+</tbody>
+</table>
+
+<!-- 2 photos per row -->
+<table class="size-full wp-image-1073" border="0" width="600">
+<tbody>
+<tr>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04290.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04290.jpg" alt="Beach Bungalows at Carteret" /></a></td>
+<td><a href="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04289.jpg"><img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04289.jpg" alt="Beach Bungalows at Carteret" /></a></td>
+</tr>
+
+</tbody>
+</table>
+<hr />
+
+<a href="http://www.barneville-carteret.fr/" target="_blank"><span style="color:black">More over Barneville-Carteret</span><img src="http://streetphoto24.com/wp-content/uploads/2016/07/Barneville-Carteret.jpg" alt="Barneville-Carteret" width="780" height="377" class="alignnone size-full wp-image-2312" /></a>
+<hr />

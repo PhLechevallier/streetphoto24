@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/1PICT0019.jpg" 
+		title="Bikes in Hilversum"><img src="http://streetphoto24.com/wp-content/uploads/2016/08/1PICT0019.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+</div>
+
+<p></br>1000 bikes in Hilversum are parked where it is not allowed (Prohibited to place bicycles on the board). Dutch people are not really disciplined!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/2PICT0029.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/2PICT0029.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/3PICT0030.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/3PICT0030.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/4PICT0028.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/4PICT0028.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/5PICT0022.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/5PICT0022.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/6PICT0023.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/6PICT0023.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/7PICT0025.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/7PICT0025.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/08/8PICT0027.jpg" 
+		title="Bikes in Hilversum">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/08/8PICT0027.jpg" 
+		alt="Bikes in Hilversum" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

@@ -1,0 +1,168 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04888.jpg" 
+		title="Marché des Lices in Rennes"><img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04888.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Marché des Lices in Rennes is one of the largest markets in France. It is always full of live. If you like Breton specialties, and fresh fruits, vegetables and fish, this market is a paradise for you. On this day, famous people were visiting the Marché des Lices. You like recognize them.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04891.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04891.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04881.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04881.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04882.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04882.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04887.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04887.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04907.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04907.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04885.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04885.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04889.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04889.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04886.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04886.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04890.jpg" 
+			title="Marché des Lices in Rennes">
+			<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04890.jpg" 
+			alt="Marché des Lices in Rennes" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04892.jpg" 
+			title="Marché des Lices in Rennes">
+			<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04892.jpg" 
+			alt="Marché des Lices in Rennes" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04893.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04893.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04895.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04895.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04902.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04902.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04904.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04904.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04906.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04906.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04910.jpg" 
+		title="Marché des Lices in Rennes">
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04910.jpg" 
+		<img src="http://streetphoto24.com/wp-content/uploads/marche-les-lices-in-rennes-DSC04910.jpg" 
+		alt="Marché des Lices in Rennes" />
+		</a>
+	</div>
+</div>
+
+<h3>History</h3>
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a href="http://www.wiki-rennes.fr/March%C3%A9_des_Lices" target="_blank"><img src="http://streetphoto24.com/wp-content/uploads/2016/03/marche-les-lices.jpg" alt="Marché des Lices" /></a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a href="http://www.wiki-rennes.fr/March%C3%A9_des_Lices" target="_blank"><span style="color: black; font-size: 90%; font-style: Italic;"> The 'Marché des Lices' is a food and flower market held every Saturday morning on the Place des Lices and Place St-Michel. Created in 1662, it has had its ups and downs before taking its current form in 1965. It welcomes local artisans and producers and is ...</span>
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<hr />
+
+
+
+

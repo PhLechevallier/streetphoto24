@@ -1,0 +1,101 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08620.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08620.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+</div>
+
+<p></br>Travelling through Pont de l'Arche we saw a lot of people far away. Why so many people? What were they doing? There was a <b>huge flea market</b> with about 500 sellers and thousands visitors. So much old stuff for sale was incredible. Look!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08621.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08621.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08622.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08622.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08623.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08623.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08633.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08633.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08626.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08626.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08628.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08628.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08629.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08629.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08624.jpg" 
+		title="Flea Market at Pont de l'Arche">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08624.jpg" 
+		alt="Flea Market at Pont de l'Arche" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08625.jpg" 
+			title="Flea Market at Pont de l'Arche">
+			<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08625.jpg" 
+			alt="Flea Market at Pont de l'Arche" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08635.jpg" 
+			title="Flea Market at Pont de l'Arche">
+			<img src="http://streetphoto24.com/wp-content/uploads/Flea-Market-at-Pont-de-lArche-DSC08635.jpg" 
+			alt="Flea Market at Pont de l'Arche" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<hr />

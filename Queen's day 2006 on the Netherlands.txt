@@ -1,0 +1,253 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0203.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0203.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0213.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0213.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<p></br>Queen's day 2006. This year, not only the Queen came in Almere, but also there where a lot of people with funny clothes.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0180.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0180.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0209.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0209.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0208.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0208.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0207.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0207.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0204.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0204.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0145.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0145.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0144.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0144.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0202.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0202.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0162.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0162.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0161.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0161.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0143.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0143.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0135.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0135.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0153.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0153.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0150.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0150.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0147.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0147.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0137.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0137.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0134.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0134.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0126.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0126.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0125.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0125.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0123.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0123.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0122.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0122.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0198.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0198.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0196.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0196.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0181.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0181.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0176.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0176.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0197.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0197.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0188.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0188.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0199.jpg" 
+		title="Queen's day 2006 on the Netherlands">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-2006-in-the-Netherlands-PICT0199.jpg" 
+		alt="Queen's day 2006 on the Netherlands" />
+		</a>
+	</div>
+</div>
+
+<hr />

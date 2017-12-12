@@ -1,0 +1,105 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09034.jpg" 
+		title="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09034.jpg"><img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09034.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+</div>
+
+<p></br>Funny these disguised people in the streets. During the City Garden Festival in Almere (Stadstuinen Festival), some disguised people were walking in the streets and were singing for the visitors.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09035.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09035.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09036.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09036.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09037.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09037.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09047.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09047.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09053.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09053.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09049.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09049.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09048.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09048.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09010.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09010.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09013.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09013.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09084.jpg" 
+		title="Funny these Disguised people in the Streets">
+		<img src="http://streetphoto24.com/wp-content/uploads/Disguised-people-DSC09084.jpg" 
+		alt="Funny these Disguised people in the Streets" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 ">
+	</div>
+</div>
+
+<hr />
+

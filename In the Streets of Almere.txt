@@ -1,0 +1,115 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05585.jpg" 
+		title="In the Streets of Almere"><img src="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05585.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+</div>
+
+<p></br>Always amazing to look at people in the streets. I have taken these photos on a Saturday afternoon in the downtown of Almere (Netherlands).</p>
+
+<div class="row">
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05577.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05577.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05583.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05583.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05597.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05597.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05598.jpg" 
+			title="In the Streets of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05598.jpg" 
+			alt="In the Streets of Almere" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05588.jpg" 
+			title="In the Streets of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05588.jpg" 
+			alt="In the Streets of Almere" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05587.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05587.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05578.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05578.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05603.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05603.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05605.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05605.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05590.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/in-the-streets-of-almere-DSC05590.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05586.jpg" 
+		title="In the Streets of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/in-the-streets-of-almere-DSC05586.jpg" 
+		alt="In the Streets of Almere" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

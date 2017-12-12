@@ -1,0 +1,75 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09919.jpg" 
+		title="The Mannequins Have Character"><img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09919.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+	</div>
+</div>
+
+<p></br>In the showcases the mannequins have sometimes a very strong expression. Their faces, their clothes and the accessories they wear often give an idea of the character that they would have if they were real humans. Look ...</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09907.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09907.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09902.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09902.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09901.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09901.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09900.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09900.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09799.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09799.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09800.jpg" 
+		title="The Mannequins Have Character">
+		<img src="http://streetphoto24.com/wp-content/uploads/The-Mannequins-Have-Character-DSC09800.jpg" 
+		alt="The Mannequins Have Character" />
+		</a>
+	</div>
+</div>
+
+</br>These photo have been taken in the evening in the shopping streets of Almere.
+
+<hr />
+
+
+

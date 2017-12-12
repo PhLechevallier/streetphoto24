@@ -1,0 +1,88 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="the-streets-of-amsterdam" 
+		title="The Streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0085.jpg" 
+		alt="The Streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+<p style="font-size:120%"></br>Look at the people when you are walking in Amsterdam. Some ones have a funny face.</p>
+
+<hr />
+<h2><b>In the streets of Amsterdam</b></h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="in-the-streets-of-amsterdam" 
+		title="In the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0049.jpg" 
+		alt="In the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+<p style="font-size:120%"></br>Many people in the streets of Amsterdam. Some ones have a funny face.</p>
+
+<hr />
+<h2><b>Keep Calm and Wear Orange</b></h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="keep-calm-and-wear-orange" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08297.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="keep-calm-and-wear-orange" 
+		title="Keep Calm and Wear Orange">
+		<img src="http://streetphoto24.com/wp-content/uploads/Keep-Calm-and-Wear-Orange-DSC08298.jpg" 
+		alt="Keep Calm and Wear Orange" />
+		</a>
+	</div>
+</div>
+<p style="font-size:120%"></br>Keep Calm and Wear Orange said two happy ladies. It was tonight at the King's Day Evening in Almere. Tonight, a lot of people wear orange clothes, hats and other accessoires.</p>
+
+<hr />
+<h2><b>At the Flea Market</b></h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="at-the-flea-market" 
+		title="At the Flea Market">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Flea-Market-DSC08246.jpg" 
+		alt="At the Flea Market" />
+		</a>
+		</a>
+	</div>
+</div>
+<p style="font-size:120%">It is the King's Day in the Netherlands and there are flea markets in the whole country. So many people who sell old objects! It is unbelievable.</p>
+
+<hr />
+<h2><b>King's Day, Cultural Activities</b></h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="kings-day-cultural-activities" 
+		title="King's Day, Cultural Activities">
+		<img src="http://streetphoto24.com/wp-content/uploads/Kings-Day-Cultural-Activities-DSC08342.jpg" 
+		alt="King's Day, Cultural Activities" />
+		</a>
+	</div>
+</div>
+<p style="font-size:120%"></br>The king's day in the Netherlands is always the occasion to have cultural activities. Look!</p>
+
+<hr />
+<h2><b>Almere-Citymall-in-the-Evening</b></h2>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="Almere-Citymall-in-the-Evening" 
+		title="Almere Citymall in the Evening">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Citymall-in-the-Evening-PICT0017.jpg" 
+		alt="Almere Citymall in the Evening" />
+		</a>
+	</div>
+</div>
+<p style="font-size:120%"></br>A few photos taken in Almere Citymall at the beginning of the evening. The streets, the shops and the trees are illuminated, also the swan.</p>
+

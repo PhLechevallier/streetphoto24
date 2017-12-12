@@ -1,0 +1,73 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09091.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou"><img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09091.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09093.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou"><img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09093.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+</div>
+
+<p></br>Le Héron au Long Bec Emmanché d'un Long Cou / The Long-billed, long-legged Heron, was so quite near the river. I could come 3 meters from him and make photos. He didn't move, only walked a few meters.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09094.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09094.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09095.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09095.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09096.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09096.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09097.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09097.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09098.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09098.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09099.jpg" 
+		title="Le Héron au Long Bec Emmanché d'un Long Cou">
+		<img src="http://streetphoto24.com/wp-content/uploads/Le-Héron-au-Long-Bec-Emmanché-dun-Long-Cou-DSC09099.jpg" 
+		alt="Le Héron au Long Bec Emmanché d'un Long Cou" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

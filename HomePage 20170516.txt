@@ -1,0 +1,67 @@
+<h2>Almere Security Day</h2>
+
+[huge_it_slider id="41"]
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/category/street-photos/" 
+		title="Street photos">
+        <span style="font-size:120%;">Street photos</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/03/laughing-woman.jpg" 
+		alt="Street photos"/>
+		</a><a  href="http://streetphoto24.com/love-locks-on-the-bridges-of-rotterdam/" 
+		title="Love Locks on the bridges of Rotterdam">
+        <span style="font-size:120%;">Love Locks on the bridges of Rotterdam
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/category/almere/" 
+		title="Photos of Almere">
+                <span style="font-size:120%;">Photos of Almere</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/Sunset-in-Almere-Citymall-PICT0084.jpg" 
+		alt="Photos of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/category/bikes/" 
+		title="Bikes in The Netherlands">
+                <span style="font-size:120%;">Bikes in The Netherlands</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/colored-bikes-DSC07623.jpg" 
+		alt="Bikes in The Netherlands" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+		<a  href="http://streetphoto24.com/category/amsterdam/" 
+		title="Almere">
+                <span style="font-size:120%;">Photos of Amsterdam</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0085-768x512.jpg" 
+		alt="Photos of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+		<a  href="http://streetphoto24.com/category/france/carteret/" 
+		title="Photos of Carteret">
+                <span style="font-size:120%;">Photos of Carteret</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/07/DSC04273-1.jpg" 
+		alt="Photos of Carteret" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/category/street-art/" 
+		title="Photos of Street Art">
+                <span style="font-size:120%;">Photos of Street Art Photos</span>
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/01/graffiti-under-a-bridge-feature.jpg" 
+		alt="Photos of Street Art" />
+		</a>
+	</div>
+</div>

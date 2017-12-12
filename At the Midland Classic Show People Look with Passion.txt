@@ -1,0 +1,184 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09690.jpg" 
+		title="At the Midland Classic Show People Look with Passion"><img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09690.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<p></br>People were really looking with passion at the Midland Classic Show. They were looking at all the old timers in details and were making a lot of photos. Some nostalgy is visible on the face of some of them. Amazing!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09660.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09660.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09669.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09669.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09635.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09635.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09638.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09638.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09657.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09657.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09634.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09634.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09640.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09640.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09701.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09701.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09637.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09637.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09655.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09655.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09642.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09642.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09656.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09656.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09644.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09644.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09647.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09647.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09670.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09670.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09674.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09674.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09686.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09686.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09692.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09692.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09633.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09633.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09651.jpg" 
+		title="At the Midland Classic Show People Look with Passion">
+		<img src="http://streetphoto24.com/wp-content/uploads/At-the-Midland-Classic-Show-People-Look-with-Passion-DSC09651.jpg" 
+		alt="At the Midland Classic Show People Look with Passion" />
+		</a>
+	</div>
+</div>
+
+<p></br>I have taken these photos at the Midland Classic Show was in Almere.</p>
+
+<hr />

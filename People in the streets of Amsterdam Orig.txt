@@ -1,0 +1,9 @@
+[huge_it_slider id="23"]
+<center>Many people in the streets of Amsterdam. They are walking, biking, talking, eating, calling, singing, dancing, playing music, playing with the pigeons, ...
+In other words, <b>a spectacle</b>.
+<hr />
+
+Have also a look at this album: <br><b>Bikes in Amsterdam</b>
+<a href="http://streetphoto24.com/bikes-in-amsterdam/"><img class="alignnone size-full wp-image-1652" src="http://streetphoto24.com/wp-content/uploads/2016/01/bikes-in-amsterdam-feature.jpg" alt="Bikes in Amsterdam"  /></a>
+</center>
+

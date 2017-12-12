@@ -1,0 +1,196 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08999.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting"><img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08999.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<p></br>There were many amazing cars at the Amazing Cars at the Custom Turbo Meeting. <b>Some of these cars were clearly the result of hand work</b>, one of the turbo was made with a beer can!
+Was the Renault Rodeo the quickest one? 
+Which one is the cleanest? 
+Which one had the most beautiful color?
+</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08945.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08945.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08946.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08946.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08968.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08968.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08969.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08969.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08971.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08971.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08972.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08972.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08981.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08981.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08982.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08982.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08983.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08983.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08984.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08984.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08990.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08990.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08991.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08991.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08993.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08993.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08996.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08996.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08997.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08997.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08948.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08948.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08949.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08949.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08950.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08950.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08941.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08941.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08967.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC08967.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC09001.jpg" 
+		title="Amazing Cars at the Custom Turbo Meeting">
+		<img src="http://streetphoto24.com/wp-content/uploads/Custom-Turbo-Meeting-in-Almere-DSC09001.jpg" 
+		alt="Amazing Cars at the Custom Turbo Meeting" />
+		</a>
+	</div>
+</div>
+</br><center><a href="http://customturboworld.com/" title="customturboworld.com" target="_blank"><img src="http://streetphoto24.com/wp-content/uploads/CustomTurboWorld.jpg" alt="customturboworld.com" /></a></center>
+
+<hr />
+
+		

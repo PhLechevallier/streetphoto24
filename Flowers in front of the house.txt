@@ -1,0 +1,48 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06174.jpg" 
+		title="Flowers in front of the house"><img src="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06174.jpg" 
+		alt="Flowers in front of the house" />
+		</a>
+	</div>
+</div>
+
+<p></br>Flowers in front of this small house at Almere Haven (Netherlands). The front side of the house is fully decorated with flowers and figurines.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06172.jpg" 
+		title="Flowers in front of the house">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06172.jpg" 
+		alt="Flowers in front of the house" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06173.jpg" 
+		title="Flowers in front of the house">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06173.jpg" 
+		alt="Flowers in front of the house" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06176.jpg" 
+		title="Flowers in front of the house">
+		<img src="http://streetphoto24.com/wp-content/uploads/Flowers-in-front-of-the-house-DSC06176.jpg" 
+		alt="Flowers in front of the house" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

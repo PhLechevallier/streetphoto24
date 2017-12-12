@@ -1,0 +1,59 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0004.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0004.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0005.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0005.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+</div>
+
+<p></br>During the Security Day in Almere, the children could shoot with real army guns. Look at them!</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08431.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08431.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08433.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08433.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08432.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-DSC08432.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0003.jpg" 
+		title="The Children Shoot">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Security-Day-The-Children-Shoot-PICT0003.jpg" 
+		alt="The Children Shoot" />
+		</a>
+	</div>
+</div>
+
+<hr />

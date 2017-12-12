@@ -1,0 +1,111 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05496.jpg" 
+		title="Incredible Number of Hairdressers in Almere"><img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05496.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<p></br>The number of hairdressers in Almere is incredible. <b>There are hairdressers everywhere</b>. I was walking in the downtown. In every shopping street, I saw one or several hairdresser salons. I photographed 12 salons, but there are more. I missed at least 4 ones.
+</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05508.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05508.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05509.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05509.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05514.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05514.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05516.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05516.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05517.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05517.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05518.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05518.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05520.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05520.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05523.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05523.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05526.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05526.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05529.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05529.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05530.jpg" 
+		title="Incredible Number of Hairdressers in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Incredible-Number-of-Hairdressers-in-Almere-DSC05530.jpg" 
+		alt="Incredible Number of Hairdressers in Almere" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

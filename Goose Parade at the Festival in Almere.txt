@@ -1,0 +1,79 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06069-1.jpg" 
+		title="Goose Parade at the Festival in Almere"><img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06069-1.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+</div>
+
+<p></br>Goose parade, the geese are celebrating! Amazing that artists are so creative and they think to <b>scroll geese on a fanfare music</b>.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06070-1.jpg" 
+		title="Goose Parade at the Festival in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06070-1.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06071-1.jpg" 
+		title="Goose Parade at the Festival in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06071-1.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06075.jpg" 
+		title="Goose Parade at the Festival in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06075.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-5 col-lg-5 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06074-1.jpg" 
+		title="Goose Parade at the Festival in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06074-1.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-7 col-lg-7 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06073-1.jpg" 
+		title="Goose Parade at the Festival in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Goose-Parade-at-the-Festival-in-Almere-DSC06073-1.jpg" 
+		alt="Goose Parade at the Festival in Almere" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2 ">
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-8 col-lg-8 ">
+		<b>Also look at this album:</b><a href="http://streetphoto24.com/people-in-the-streets-of-almere" 
+		title="People in the streets of Almere"><h3>People in the streets of Almere</h3>
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/DSC06029.jpg" 
+		alt="People in the streets of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-2 col-lg-2 ">
+	</div>
+</div>
+
+<hr />
+

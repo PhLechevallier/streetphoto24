@@ -1,0 +1,90 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09519.jpg" 
+		title="Weesp, Walk along the River"><img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09519.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+</div>
+
+<p></br>Take a walk along the river Vecht in Weesp. There is always life on this river, many boats, drawbridges that open and close permanently and this afternoon a fisherman who had a good fishing.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09516.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09516.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09517.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09517.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09522.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09522.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09513.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09513.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09514.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09514.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09515.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09515.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09520.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09520.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09523.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09523.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09521.jpg" 
+		title="Weesp, Walk along the River">
+		<img src="http://streetphoto24.com/wp-content/uploads/Weesp-Walk-along-the-River-DSC09521.jpg" 
+		alt="Weesp, Walk along the River" />
+		</a>
+	</div>
+</div>
+
+<hr />

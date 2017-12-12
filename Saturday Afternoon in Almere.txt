@@ -1,0 +1,77 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0014-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0014-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>A lot of people in the streets of Almere on Saturday. People up and down the stairs, people in the shops, people asking for information, ...</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0012-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0012-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0018-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0018-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0019-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0019-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0025-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0025-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0029-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0029-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0031-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0031-1.jpg" 
+		alt=" Saturday Afternoon in Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0033-1.jpg" 
+		title=" Saturday Afternoon in Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/Saturday-Afternoon-in-Almere-PICT0033-1.jpg" 
+		alt=" Saturday Afternoon in Almere"
+		</a>
+	</div>
+</div>
+
+<hr />
+
+

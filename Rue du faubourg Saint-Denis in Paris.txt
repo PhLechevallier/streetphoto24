@@ -1,0 +1,122 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/PICT0159.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris"><img src="http://streetphoto24.com/wp-content/uploads/PICT0159.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<p></br>Lots of life in the rue Faubourg Saint-Denis in Paris on this Sunday noon. The men were drinking Pastis on the terrace of the pub while other people were buying the food for the lunch. There are a lot of food shops in the rue Saint-Denis. Real French shops - they sell 'foie gras' - and, in the backstreet, only Indian shops and restaurants. On the street, a nice young woman asked me a coin. I gave her a few euros for a picture. At the end of the street, you see a few typical old houses of Paris.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/PICT0142.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/PICT0142.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0141.jpg" 
+			title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0141.jpg" 
+			alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0172.jpg" 
+			title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0172.jpg" 
+			alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0143.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0143.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0157.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0157.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0140.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0140.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0136.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0136.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0138.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0138.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0139.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0139.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0163.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0163.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0135.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0135.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0166.jpg" 
+		title="Lots of life in the rue Faubourg Saint-Denis in Paris">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/05/PICT0166.jpg" 
+		alt="Lots of life in the rue Faubourg Saint-Denis in Paris" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+

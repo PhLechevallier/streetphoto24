@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08510.jpg" 
+		title="Mirrorring walls"><img src="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08510.jpg" 
+		alt="Mirrorring walls" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08511.jpg" 
+		title="Mirrorring walls"><img src="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08511.jpg" 
+		alt="Mirrorring walls" />
+		</a>
+	</div>
+</div>
+
+<p></br>Look at this mirror effect. These 2 glass buildings are side by side with an angle of 135 degrees. The walls are reflecting in each other.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08513.jpg" 
+		title="Mirrorring walls">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08513.jpg" 
+		alt="Mirrorring walls" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08517.jpg" 
+		title="Mirrorring walls">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08517.jpg" 
+		alt="Mirrorring walls" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08518.jpg" 
+		title="Mirrorring walls">
+		<img src="http://streetphoto24.com/wp-content/uploads/Mirrorring-walls-DSC08518.jpg" 
+		alt="Mirrorring walls" />
+		</a>
+	</div>
+</div>
+
+<hr />
+

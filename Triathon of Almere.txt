@@ -1,0 +1,232 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ICT0113.jpg" 
+		title="Triathon of Almere"><img src="http://streetphoto24.com/wp-content/uploads/ICT0113.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<p></br>The Triathon of Almere a few years ago. Hundreds people swim, cycle and run, and they make big efforts. The Triathon has always been popular in Almere. The name of the competition is now Challenge Almere-Amsterdam.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/ICT0109.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/ICT0109.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0002.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0002.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0075.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0075.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0004.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0004.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0028.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0028.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0013.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0013.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0036.jpg" 
+			title="Triathon of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0036.jpg" 
+			alt="Triathon of Almere" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0010.jpg" 
+			title="Triathon of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0010.jpg" 
+			alt="Triathon of Almere" />
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0041.jpg" 
+			title="Triathon of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0041.jpg" 
+			alt="Triathon of Almere" />
+			</a>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0042.jpg" 
+			title="Triathon of Almere">
+			<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0042.jpg" 
+			alt="Triathon of Almere" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0039.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0039.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0069.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0069.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0071.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0071.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0079.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0079.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0080.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0080.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0081.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0081.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0089.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0089.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0092.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0092.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0095.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0095.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0103.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0103.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0121.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0121.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0122.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0122.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0130.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0130.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0163.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0163.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0172.jpg" 
+		title="Triathon of Almere">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/06/ICT0172.jpg" 
+		alt="Triathon of Almere" />
+		</a>
+	</div>
+</div>
+
+<h3>More about the triathlon</h3> 
+<a href="http://streetphoto24.com/lady-refuels-the-runners/"><img class="alignnone size-full wp-image-1652" src="http://streetphoto24.com/wp-content/uploads/2016/05/ICT0140.jpg"
+title="Lady Refuels the Runners" alt="Lady Refuels the Runners" width="780" height="520" />
+<span style="color:Black;">The old lady was so happy to refuel the runners</span></a>
+
+<hr />

@@ -1,0 +1,214 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0100.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0100.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Queen's day 2011 in the Netherlands. These photos have been taken in Almere and Laren</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0003.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0003.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0008.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0008.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0015.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0015.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0017.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0017.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0020.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0020.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0023.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0023.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0024.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0024.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0025.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0025.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0035.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0035.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0040.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0040.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0041.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0041.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0053.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0053.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0058.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0058.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0064.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0064.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0072.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0072.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0084.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0084.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0089.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0089.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0091.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0091.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0093.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0093.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0103.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0103.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0110.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0110.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0118.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0118.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0121.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0121.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0131.jpg" 
+		title="Queen's day 2011">
+		<img src="http://streetphoto24.com/wp-content/uploads/Queens-Day-PICT0131.jpg" 
+		alt="Queen's day 2011" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+

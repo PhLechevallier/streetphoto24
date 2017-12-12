@@ -1,0 +1,83 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00010.jpg" 
+		title="Charles Dickens in Deventer"><img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00010.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00009.jpg" 
+		title="Charles Dickens in Deventer"><img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00009.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00008.jpg" 
+		title="Charles Dickens in Deventer"><img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00008.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+</div>
+
+<p></br>You see paintings of Dickens everywhere in the Bergkwartier in Deventer. Do you know why? Because there is a yearly Dickens Festival in Deventer. Every year, Charles Dickens' 19th century world comes to life. Hundreds of famous people in his books walk in person. From Scrooge, Oliver Twist and Mr. Pickwick to Christmas Carol Singers, orphans, drunkards, office workers and respectable people. This unique event takes you back to the 19th century Christmas atmosphere of this British writer.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00014.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00014.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00012.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00012.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00013.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00013.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00011.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00011.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00015.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00015.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00006.jpg" 
+		title="Charles Dickens in Deventer">
+		<img src="http://streetphoto24.com/wp-content/uploads/Dickens-in-Deventer-DSC00006.jpg" 
+		alt="Charles Dickens in Deventer" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+
+
+You see paintings of Dickens everywhere in the Bergkwartier in Deventer. Do you know why? Because there is a yearly Dickens Festival in Deventer. Every year, ... 
+painting, Dickens, Bergkwartier, Deventer, Dickens Festival, in Deventer, Dickens Festival of Deventer, Charles Dickens, famous people, Scrooge, Oliver Twist, Mr. Pickwick, Christmas Carol Singers, orphan, drunkard, office workers, respectable people, unique event, 19th century, Christmas atmosphere, British writer

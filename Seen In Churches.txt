@@ -1,0 +1,72 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08737.jpg" 
+		title="Seen In Churches"><img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08737.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+</div>
+
+<p></br>Seen in the churches of Giverny, Louviers and Pont de l'arche. Some interesting images ...</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08643.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08643.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08637.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08637.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08700.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08700.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08646.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08646.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08640.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08640.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08641.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08641.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08642.jpg" 
+		title="Seen In Churches">
+		<img src="http://streetphoto24.com/wp-content/uploads/seen-in-churches-DSC08642.jpg" 
+		alt="Seen In Churches" />
+		</a>
+	</div>
+</div>
+
+<hr />

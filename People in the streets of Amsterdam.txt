@@ -1,0 +1,183 @@
+<link rel="stylesheet" href="https:/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https:/ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https:/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0134.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0134.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<p style="font-size:120%"></br>Many people in the streets of Amsterdam. They are walking, biking, talking, eating, calling, singing, dancing, playing music, playing with the pigeons, ... In other words, <b>a spectacle</b>.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0091.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0091.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0213.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0213.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0165.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0165.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0122.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0122.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0133.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0133.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0146.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0146.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0150.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0150.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0223.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0223.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0157.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0157.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0166.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0166.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0170.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0170.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0171.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0171.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0172.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0172.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0187.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0187.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0188.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0188.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0199.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0199.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0200.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0200.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0203.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0203.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0204.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0204.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0153.jpg" 
+		title="People in the streets of Amsterdam">
+		<img src="http://streetphoto24.com/wp-content/uploads/2016/04/ICT0153.jpg" 
+		alt="People in the streets of Amsterdam" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+

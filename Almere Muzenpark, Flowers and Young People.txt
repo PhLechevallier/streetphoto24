@@ -1,0 +1,109 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09342.jpg" 
+		title="Almere Muzenpark, Flowers and Young People"><img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09342.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+</div>
+
+<p></br>This is what I saw during my walk in the Muzenpark in Almere Muziekwijk. Teenagers who were skating, flowers in the garden at the side of the park, a huge mosaic and flowers on the balkonies of "De Muzen" Building.</p>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09344.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09344.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09337.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09337.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09339.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09339.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09340.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09340.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09341.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09341.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09330.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09330.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09329.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09329.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09327.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09327.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+		<a  href="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09326.jpg" 
+		title="Almere Muzenpark, Flowers and Young People">
+		<img src="http://streetphoto24.com/wp-content/uploads/Almere-Muzenpark-Flowers-and-Young-People-DSC09326.jpg" 
+		alt="Almere Muzenpark, Flowers and Young People" />
+		</a>
+	</div>
+</div>
+
+<hr />
+
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 ">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+			<h3>Look at the 3rd album</h3> <a href="front-gardens-in-the-streets-of-almere-muziekwijk" 
+			title="Front Gardens in the Streets of Almere Muziekwijk">
+			<img src="http://streetphoto24.com/wp-content/uploads/Front-Gardens-in-the-Streets-of-Almere-Muziekwijk-DSC09361.jpg" 
+			alt="Front Gardens in the Streets of Almere Muziekwijk" />
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 ">
+	</div>
+</div>
+
+<hr />
+
