@@ -1,0 +1,121 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<div id="headerPhoto" class="row"></div>
+<script>
+    // Place the header photo
+    // Init values
+    var photoPath = "http://www.streetphoto24.com/wp-content/uploads/";
+    var photoExtension = ".jpg"
+    var photo = ["In-the-Street-People-Sit-or-Walk-DSC09702"];              // all photos sequence
+    var photoTitle = "In the Street People Sit or Walk";                    // title of the album
+    // retrieve "headerPhoto" div and create "headerRowDiv" sub div
+    var headerDiv = document.getElementById("headerPhoto");
+    var headerRowDiv = document.createElement('div');
+    headerRowDiv.id = "headerRowDiv";
+    // create href
+    var headerA = document.createElement("a");
+    headerA.href =  photoPath + photo[0] + photoExtension;
+    headerA.title = photoTitle;
+    // create href image
+    var headerImg = document.createElement('img');
+    headerImg.id = "headerImg";
+    headerImg.src = photoPath + photo[0] + photoExtension;
+    headerImg.alt = photoTitle;
+    // add image to href, href to sub div, sub div to div
+    headerA.appendChild(headerImg);
+    headerRowDiv.appendChild(headerA);
+    headerDiv.appendChild(headerRowDiv);
+</script>
+
+<div id="mainP"></div>
+<script>
+    // Fill the main text and display it
+    var mainText = "In the street people sit or walk, and a lot of them look at their smartphone. These photos have been taken in the downtown of Almere on different days, some ones during events in the city.";
+    var mainP = document.getElementById('mainP');
+    var mainPText = document.createTextNode(mainText);
+    mainP.appendChild(mainPText);
+</script>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC08925.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC08925.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09087.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09087.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09473.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09473.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09636.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09636.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09661.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09661.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09684.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09684.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09685.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09685.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09696.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09696.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09703.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09703.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+        <a  href="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09961.jpg"
+            title="In the Street People Sit or Walk">
+            <img src="http://streetphoto24.com/wp-content/uploads/In-the-Street-People-Sit-or-Walk-DSC09961.jpg"
+            alt="In the Street People Sit or Walk" />
+        </a>
+    </div>
+</div>
+
+<hr />
